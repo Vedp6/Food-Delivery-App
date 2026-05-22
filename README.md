@@ -82,35 +82,7 @@ https://food-delivery-frontend-yx8d.onrender.com/
 
 ---
 
-# 🖼️ Project Preview
 
-<div align="center">
-
-## 🏠 Home Page
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2e7b7f2f-8cb7-4b0f-8f2d-6c57d2051843.gif" width="850"/>
-
----
-
-## 🍟 Food Menu
-
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="850"/>
-
----
-
-## 🛒 Cart & Checkout
-
-<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8252-8d8f-43d5-9e1e-c0d8f3d2b4db.gif" width="850"/>
-
----
-
-## 👨‍💻 Admin Dashboard
-
-<img src="https://user-images.githubusercontent.com/74038190/212751620-3f9c8e68-d9db-4f91-b1a7-7dd567c90e1e.gif" width="850"/>
-
-</div>
-
----
 
 # 🛠️ Tech Stack
 
